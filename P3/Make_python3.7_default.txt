@@ -1,0 +1,25 @@
+# ESTO SOLO ES EN LO QUE CORRE LA CONSOLA
+
+➜  ~ python -V
+Python 2.7.10
+➜  ~ alias python=python3.7
+➜  ~ python -V
+Python 3.7.1
+➜  ~ unalias python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
