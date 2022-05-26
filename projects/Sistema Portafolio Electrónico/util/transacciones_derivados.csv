@@ -1,0 +1,16 @@
+Fecha Evento,Evento,Divisa,Monto pactado,Precio Forward,Comisión (0.27%),Plazo (Días),Fecha Cobro,Total,Finalizado
+"26/Nov/2020, 13:06:14",Forward Liquidado,EUR,700,25.3,47.817,100,06/Mar/2021,17757.817,si
+"25/Nov/2021, 13:42:56",Forward Liquidado,USD,2000,22.58154613466334,121.94034912718206,2,27/Nov/2021,45285.032618453864,si
+"26/Nov/2020, 13:46:22",Forward Liquidado,CAD,30000,16.28,1318.6800000000003,365,26/Nov/2021,489718.68000000005,si
+"02/Dec/2021, 19:22:22",Compra USD,USD,100,N/A,0,0,02/Dec/2021,2133.0,si
+"02/Dec/2021, 19:59:56",Forward Adquirido,CAD,3000,17.34193548387097,0.0,91,03/Mar/2022,"$52,025.81 (Nominal)",no
+"02/Dec/2021, 20:32:13",Forward Liquidado,EUR,2500,25.24189526184539,170.38279301745638,2,04/Dec/2021,63275.12094763093,si
+"03/Dec/2020, 20:46:22",Forward Liquidado,EUR,1300,25.3,88.80300000000001,31,03/Jan/2021,32978.803,si
+"05/Dec/2020, 14:29:19",Prima Opción Call Europeo Liquidado,CAD,5000,16.24,0.0,7,12/Dec/2020,300.0,si
+"04/Dec/2021, 14:29:45",Opción Call Europeo Liquidado,CAD,5000,16.24,0.0,7,12/Dec/2020,81199.99999999999,si
+"04/Dec/2021, 14:32:01",Prima Opción Put Europeo Liquidado,CAD,15500,16.563413953044865,0.0,7,11/Dec/2021,930.0,no
+"04/Dec/2021, 14:37:10",Prima Opción Call Americano Liquidado,USD,1000,21.297304236200254,0.0,10,14/Dec/2021,120.0,no
+"05/Dec/2020, 14:37:48",Prima Opción Put Americano Liquidado,USD,3000,20.8,0.0,100,15/Mar/2021,360.0,si
+"04/Dec/2021, 14:50:25",Opción Put Americano Liquidado,USD,3000,20.8,0.0,100,15/Mar/2021,62400.0,si
+"04/Dec/2021, 16:36:02",Compra USD,USD,1000,N/A,0,0,04/Dec/2021,21270.0,si
+"04/Dec/2021, 16:41:49",Compra USD,USD,10000,N/A,0,0,04/Dec/2021,212700.0,si
