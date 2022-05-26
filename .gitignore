@@ -1,0 +1,7 @@
+# Ignore Mac system files
+.DS_store
+
+# Big file
+creditcard.csv
+
+__pycache__/
